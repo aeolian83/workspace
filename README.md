@@ -1,1 +1,2 @@
 # first-repsitory
+## git config
